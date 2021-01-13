@@ -29,7 +29,7 @@ Implementation will involve
 
 ## Data and Tools:
 [IndicNLPSuite](https://indicnlp.ai4bharat.org/home/) has a Malayalam corpus consisting of 721 million tokens. We will also make use of their morphanalyzer. Additionally, we will use [IndicStemmer](https://github.com/libindic/indicstemmer).
-[Here](https://docs.google.com/spreadsheets/d/1Rh4cWnMhCKupoYjap3n2KMygLbDTHFxkylKq2j7JAbs/edit#gid=0)) are the results from the above tools.
+[Here](https://docs.google.com/spreadsheets/d/1Rh4cWnMhCKupoYjap3n2KMygLbDTHFxkylKq2j7JAbs/edit#gid=0) are the results from the above tools.
  
 ## Files in Repository:
 1. Data:  

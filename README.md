@@ -6,7 +6,7 @@ Mini-project for the course Natural Language Understanding, Fall 2020.
 [2. Rough Pipeline](#rough-pipeline)\
 [3. Data and Tools](#data-and-tools)\
 [4. Files in Repository](#files-in-repository)\
-[5. References](references)
+[5. References](#references)
 
 
 ## Problem Statement:
